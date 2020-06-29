@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+My Projects:
+
+1) [GitHub](http://github.com)
+2) [Blog](https://codepen.io/ivanasp/full/JjYwpvR)

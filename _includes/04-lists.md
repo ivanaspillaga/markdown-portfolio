@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+My List:
+
+* Scope
+* Stages
+  * Definition
+  * Design
+  * PoC
+  * Construction
+  * Tests
+* Marketing
